@@ -10,7 +10,7 @@ I want to implement something new to help facilitate communication with the coac
 Normal text
 
 ### Subsubtitle
-and you type moore stuff
+and you type moore stuff 
 
 If you want bulleted lists do this
 
