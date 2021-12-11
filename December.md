@@ -1,5 +1,11 @@
-# Title
-Text andin bodl you wrap with asterisks like this *foo*
+# December Happenings
+Hello WRC Team, 
+
+I want to implement something new to help facilitate communication with the coaches & make sure you know what is going on at the boathouse. I'll share a weekly highlight communicator & invite for any important information in case someone wants to be involved in it. This week I have 3 highlights for you:
+
+1. [Equipment]() 
+2. Master Plan
+3. Partnership Potential
 ## Subtitle
 Normal text
 
@@ -25,8 +31,8 @@ If you want bulleted lists do this
 
 
 
-
-# Other title
+dfgfd
+# Equipment
 
 other text
 
