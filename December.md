@@ -7,8 +7,6 @@ I want to implement something new to help facilitate communication with the coac
 2. [Master Plan](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/December.md##masterplan)
 3. [Partnership Potential](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/December.md##partnershippotential)
 
-![picture here](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/Screen%20Shot%202021-02-10%20at%208.25.32%20PM.png)
-
 ## Equipment
 You may see more boats in the bay! Some are ours. CRI generously donated six sculling boats to us: 
 -stable Maas 1x, perfect for learning to row & future members who want to just get out on the water and not worry about balance in a skinny boat.  
@@ -27,5 +25,9 @@ Sandra & I have been thinking a lot about recruiting, pipeline development etc. 
 
 I hope next week we will have an informational meeting about S2S at WRC and start taking the first steps to cement this partnership. 
 
-#
+## A few recent pictures of practices
+
+![Some text](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/arc_images/IMG_4158.JPG)
+![](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/arc_images/IMG_4390.JPG)
+![](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/arc_images/IMG_4392.JPG)
 
