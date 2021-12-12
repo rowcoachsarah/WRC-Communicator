@@ -4,8 +4,8 @@ Hello WRC Team,
 I want to implement something new to help facilitate communication with the coaches & make sure you know what is going on at the boathouse. I have made this blog/website communicator to share with you the highlights & happenings on the ground at the boathouse. This will also help me look at where we are coming from and move towards where we are going. This week I have three highlights for you.
 
 1. [Equipment](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/December.md#equipment) 
-2. [Master Plan](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/December.md#masterplan)
-3. [Partnership Potential](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/December.md#partnershippotential)
+2. [Master Plan](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/December.md#master-plan)
+3. [Partnership Potential](https://github.com/rowcoachsarah/WRC-Communicator/blob/main/December.md#partnership-potential)
 
 ## Equipment
 You may see more boats in the bay! Some are ours. CRI generously donated six sculling boats to us: 
